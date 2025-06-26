@@ -1,16 +1,58 @@
-## Hi there 👋
+# 🌟 Sneha Wayadande
 
-<!--
-**SnehaSathe/SnehaSathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. IT Graduate | 💼 Freelance Data Analyst (Ex-Intern @ Eutopia) | 🤖 Learning Agentic & Generative AI | 📍 Maharashtra, India
 
-Here are some ideas to get you started:
+🔍 Exploring AI-driven solutions through data, machine learning, and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎯 **Previous Role**: Freelance Data Analyst at Eutopia (also completed internship here)  
+📚 **Education**: Bachelor of Science in Information Technology  
+🧠 **Current Focus**: Learning Agentic AI, Generative AI, and Machine Learning  
+🚀 **Career Goal**: To build intelligent, data-driven solutions using AI and ML  
+
+---
+
+## 💼 Technical Skills
+
+- **Programming Languages**: Python, SQL, HTML/CSS  
+- **Libraries/Frameworks**: pandas, NumPy, scikit-learn, matplotlib, seaborn, Streamlit  
+- **Tools**: Excel, Power BI, Jupyter Notebook, Google Sheets  
+- **Database**: SQLite, MySQL  
+- **AI/ML**: scikit-learn, GenAI (OpenAI, LangChain)  
+- **Platforms**: LeetCode, Kaggle, GitHub
+
+---
+
+## 📌 Pinned Projects
+
+- [🔍 POWER-BI-HR-Analytics-Dashboard](https://github.com/SnehaSathe/POWER-BI-HR-Analytics-Dashboard)  
+  *Project is aimed to developing a power Bi Dashboard for generating insights about Employees attendance data in the organization. The dataset can be accessed from DataSet folder.*
+
+- [📊 Sales Dashboard Automation](https://github.com/SnehaSathe/Sales_Dashboard)  
+  *The **Sales Dashboard** is a dynamic Power BI dashboard designed to analyze and track the performance of the sales department. It provides insights into lead outreach, engagement, qualification, and deal closures. With advanced role-based access, this dashboard ensures data security and restricted access based on user roles*
+
+- [🧠 Machine Learning Models](https://github.com/SnehaSathe/Kidney-Disease-Classification-Deep-Learning-Project)  
+  *Includes regression, classification, and clustering models with evaluation metrics.*
+
+---
+
+## 📊 GitHub Stats
+
+- 🔧 Most Used Languages:
+  - Python, Jupyter Notebook, SQL, HTML
+- 🔥 Recent Activity:
+  - Contributing to AI, Data Analysis & Visualization Projects
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/snehasathe/)   
+- 📧 Email: [snehawaydande2000@gmail.com]  
+
+---
+
+> “Keep learning, keep building – because data never sleeps!” 💡
