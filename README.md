@@ -1,4 +1,4 @@
-# 🌟 Sneha Wayadande
+# 🌟 Sneha Sathe
 
 🎓 B.Sc. IT Graduate | 💼 Freelance Data Analyst (Ex-Intern @ Eutopia) | 🤖 Learning Agentic & Generative AI | 📍 Maharashtra, India
 
