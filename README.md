@@ -44,8 +44,6 @@
 
 - 🔧 Most Used Languages:
   - Python, Jupyter Notebook, SQL, HTML
-- 🔥 Recent Activity:
-  - Contributing to AI, Data Analysis & Visualization Projects
 
 ---
 
