@@ -1,6 +1,6 @@
 # 🌟 Sneha Sathe
 
-🎓 B.Sc. IT Graduate | 💼 Freelance Data Analyst (Ex-Intern @ Eutopia) | 🤖 Learning Agentic & Generative AI | 📍 Maharashtra, India
+🎓 B.Sc. IT Graduate | 💼 Data Analyst (Ex-Intern @ Eutopia) | 🤖 Learning Agentic & Generative AI | 📍 Maharashtra, India
 
 🔍 Exploring AI-driven solutions through data, machine learning, and intelligent systems.
 
@@ -21,8 +21,8 @@
 - **Programming Languages**: Python, SQL, HTML/CSS  
 - **Libraries/Frameworks**: pandas, NumPy, scikit-learn, matplotlib, seaborn, Streamlit  
 - **Tools**: Excel, Power BI, Jupyter Notebook, Google Sheets  
-- **Database**: SQLite, MySQL  
-- **AI/ML**: scikit-learn, GenAI (OpenAI, LangChain)  
+- **Database**: SQLite, MySQL, Vector Database
+- **AI/ML**: scikit-learn, GenAI (OpenAI, LangChain), RAG, LLM
 - **Platforms**: LeetCode, Kaggle, GitHub
 
 ---
