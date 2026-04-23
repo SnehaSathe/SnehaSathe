@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-🎯 **Previous Role**: Freelance Data Analyst at Eutopia
+🎯 **Previous Role**: Data Analyst at Eutopia
 
 📚 **Education**: Bachelor of Science in Information Technology  
 🧠 **Current Focus**: Learning Agentic AI, Generative AI, and Machine Learning  
