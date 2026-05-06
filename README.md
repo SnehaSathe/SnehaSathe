@@ -29,11 +29,11 @@
 
 ## 📌 Pinned Projects
 
-- [🔍 POWER-BI-HR-Analytics-Dashboard](https://github.com/SnehaSathe/POWER-BI-HR-Analytics-Dashboard)  
-  *Project is aimed to developing a power Bi Dashboard for generating insights about Employees attendance data in the organization. The dataset can be accessed from DataSet folder.*
+- [🔍 AI HALLUCINATION DETECTOR](https://github.com/SnehaSathe/ai-hallucination-detector)  
+  *Detects whether an LLM's answer is Correct, Partially Hallucinated, or Hallucinated — using a hybrid ML + LLM agentic pipeline with 91% accuracy and <2s response time..*
 
-- [📊 Sales Dashboard Automation](https://github.com/SnehaSathe/Sales_Dashboard)  
-  *The **Sales Dashboard** is a dynamic Power BI dashboard designed to analyze and track the performance of the sales department. It provides insights into lead outreach, engagement, qualification, and deal closures. With advanced role-based access, this dashboard ensures data security and restricted access based on user roles*
+- [📊 AI Career Strategist](https://github.com/SnehaSathe/GenAI_Career_Strategist)  
+  *End-to-end RAG backend that matches resumes to job descriptions — improving retrieval precision from 72% → 88% and cutting LLM inference costs by 40–50%.*
 
 - [🧠 Machine Learning Models](https://github.com/SnehaSathe/Kidney-Disease-Classification-Deep-Learning-Project)  
   *Includes regression, classification, and clustering models with evaluation metrics.*
@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 - 🔧 Most Used Languages:
-  - Python, Jupyter Notebook, SQL, HTML
+  - Langchain, llm, fast api, Machine learning, Deep learning,Python, Jupyter Notebook, SQL, HTML
 
 ---
 
