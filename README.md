@@ -43,11 +43,12 @@
 ## 📊 GitHub Stats
 
 - 🔧 Most Used Languages:
-  - Langchain, llm, fast api, Machine learning, Deep learning,Python, Jupyter Notebook, SQL, HTML
+  - Langchain, RAG, llm, fast api, Machine learning, Deep learning,Python, Jupyter Notebook, SQL, HTML
 
 ---
 
 ## 📫 Connect with Me
+- 🔗 [Website:](https://snehasathe.github.io)
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/snehasathe/)   
 - 📧 Email: [snehawaydande2000@gmail.com]  
