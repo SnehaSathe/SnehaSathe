@@ -32,8 +32,8 @@
 - [🔍 AI HALLUCINATION DETECTOR](https://github.com/SnehaSathe/ai-hallucination-detector)  
   *Detects whether an LLM's answer is Correct, Partially Hallucinated, or Hallucinated — using a hybrid ML + LLM agentic pipeline with 91% accuracy and <2s response time..*
 
-- [📊 AI Career Strategist](https://github.com/SnehaSathe/GenAI_Career_Strategist)  
-  *End-to-end RAG backend that matches resumes to job descriptions — improving retrieval precision from 72% → 88% and cutting LLM inference costs by 40–50%.*
+- [📊 AI Career Strategist](https://github.com/SnehaSathe/GenAI_Career_Strategist)   [🔗 Live Demo](https://genaicareerstrategist-ro6rdwgqxaaap7iqfrb7zy.streamlit.app/)  
+ *End-to-end RAG backend that matches resumes to job descriptions — improving retrieval precision from 72% → 88% and cutting LLM inference costs by 40–50%.*
 
 - [🧠 Machine Learning Models](https://github.com/SnehaSathe/Kidney-Disease-Classification-Deep-Learning-Project)  
   *Includes regression, classification, and clustering models with evaluation metrics.*
