@@ -22,7 +22,7 @@
 - **Libraries/Frameworks**: pandas, NumPy, scikit-learn, matplotlib, seaborn, Streamlit  
 - **Tools**: Excel, Power BI, Jupyter Notebook, Google Sheets  
 - **Database**: SQLite, MySQL, Vector Database
-- **AI/ML**: scikit-learn, GenAI (OpenAI, LangChain), RAG, LLM
+- **AI/ML**: GenAI (OpenAI, LangChain), RAG, LLM, LangGraph, FastAPI, FAISS, Pinecone, Ollama, Docker, Claude API, Groq, Sentence Transformers
 - **Platforms**: LeetCode, Kaggle, GitHub
 
 ---
