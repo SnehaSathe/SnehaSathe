@@ -1,6 +1,6 @@
 # 🌟 Sneha Sathe
 
-🎓 B.Sc. IT Graduate | 💼 Data Analyst (Ex-Intern @ Eutopia) | 🤖 Learning Agentic & Generative AI | 📍 Maharashtra, India
+🎓 B.Sc. IT Graduate | 💼 Data Analyst (Ex-Intern @ Eutopia) | 🤖 AI/ML Engineer · RAG Pipelines · LLM Integrations · FastAPI
 
 🔍 Exploring AI-driven solutions through data, machine learning, and intelligent systems.
 
